@@ -6,4 +6,12 @@ Day1 ------> Access Modifiers
               2)private
               3)protected
               4)default
+            Non-Access Modifiers
+            static
+            final
+            abstract
+            synchronized
+            volatile
+            transient
+             native
       
