@@ -5,7 +5,7 @@ Day1 ------>Access Modifiers and Non-Access Modifiers
 Day2 ------>OOPS  
 Day3 ------>Iterator and ListIterator  
 Day4 ------>Set Interface and Class Loading  
-Day5 ------> Map
+Day5 ------> Map, List Sorting, Comparable 
             
 
 
