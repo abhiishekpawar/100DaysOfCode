@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Abhip
+ *
+ */
+module allque {
+}
