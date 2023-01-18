@@ -17,7 +17,8 @@ Day13 ----->Commonly asked questions
 Day14 ----->Interview Prep  
 Day15 ----->Codes-II  
 Day16 ----->set sorting  
-day17 ----->Programs
+day17 ----->Programs  
+Day18 ----->JDBC steps
 
 
 
