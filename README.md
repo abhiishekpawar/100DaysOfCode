@@ -19,7 +19,9 @@ Day15 ----->Codes-II
 Day16 ----->set sorting  
 day17 ----->Programs  
 Day18 ----->JDBC steps  
-Day19 ----->Bubble Sort
+Day19 ----->Bubble Sort  
+Day20 ----->Leetcode  
+Day21 ----->Leetcode
 
 
 
