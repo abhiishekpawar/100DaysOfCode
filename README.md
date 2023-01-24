@@ -21,7 +21,8 @@ day17 ----->Programs
 Day18 ----->JDBC steps  
 Day19 ----->Bubble Sort  
 Day20 ----->Leetcode  
-Day21 ----->Leetcode
+Day21 ----->Leetcode  
+Day22 ----->PentagonClassCodes
 
 
 
